@@ -1,0 +1,19 @@
+{
+  "name": "js-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandansn/js-typescript.git"
+  },
+  "author": "nandakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandansn/js-typescript/issues"
+  },
+  "homepage": "https://github.com/nandansn/js-typescript#readme"
+}
