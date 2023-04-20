@@ -1,8 +1,6 @@
 // implicit
-
 let greet = function (name: string) {
     console.log(`${name} welcome to Hostfully`);
-
 }
 
 greet('nanda')
@@ -38,5 +36,7 @@ let div = (a: number, b: number = 1): number => {
 
 console.log(div(2));
 console.log(div(2, 4));
+
+
 
 
